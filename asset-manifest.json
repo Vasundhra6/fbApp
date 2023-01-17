@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fbApp/static/css/main.1f6d237a.css",
+    "main.js": "/fbApp/static/js/main.7a36ead1.js",
+    "index.html": "/fbApp/index.html",
+    "main.1f6d237a.css.map": "/fbApp/static/css/main.1f6d237a.css.map",
+    "main.7a36ead1.js.map": "/fbApp/static/js/main.7a36ead1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f6d237a.css",
+    "static/js/main.7a36ead1.js"
+  ]
+}
